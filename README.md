@@ -5,7 +5,7 @@ This is a Solidity smart contract for create your own ERC20 token and deploy it 
 
 ## *Introduction*
 
-The peoject allows to mint, burn and transfer the amount of tokens
+The peoject allows to mint, burn and transfer the amount of tokens also we can give allowance to the reciver address to spend some token 
 
 ### *Requirements*
 
